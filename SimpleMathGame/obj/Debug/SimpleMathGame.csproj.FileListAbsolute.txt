@@ -1,0 +1,15 @@
+C:\Users\Anthony\Desktop\Programming\C#\SimpleMathGame\SimpleMathGame\bin\Debug\SimpleMathGame.exe.config
+C:\Users\Anthony\Desktop\Programming\C#\SimpleMathGame\SimpleMathGame\bin\Debug\SimpleMathGame.exe
+C:\Users\Anthony\Desktop\Programming\C#\SimpleMathGame\SimpleMathGame\bin\Debug\SimpleMathGame.pdb
+C:\Users\Anthony\Desktop\Programming\C#\SimpleMathGame\SimpleMathGame\obj\Debug\SimpleMathGame.csprojResolveAssemblyReference.cache
+C:\Users\Anthony\Desktop\Programming\C#\SimpleMathGame\SimpleMathGame\obj\Debug\SimpleMathGame.exe
+C:\Users\Anthony\Desktop\Programming\C#\SimpleMathGame\SimpleMathGame\obj\Debug\SimpleMathGame.pdb
+C:\Users\Anthony\Desktop\Programming\C# Projects\SimpleMathGame\SimpleMathGame\bin\Debug\SimpleMathGame.exe.config
+C:\Users\Anthony\Desktop\Programming\C# Projects\SimpleMathGame\SimpleMathGame\obj\Debug\SimpleMathGame.exe
+C:\Users\Anthony\Desktop\Programming\C# Projects\SimpleMathGame\SimpleMathGame\obj\Debug\SimpleMathGame.pdb
+C:\Users\Anthony\Desktop\Programming\Visual Studio 2015\Projects\C# Projects\SimpleMathGame\SimpleMathGame\bin\Debug\SimpleMathGame.exe.config
+C:\Users\Anthony\Desktop\Programming\Visual Studio 2015\Projects\C# Projects\SimpleMathGame\SimpleMathGame\obj\Debug\SimpleMathGame.exe
+C:\Users\Anthony\Desktop\Programming\Visual Studio 2015\Projects\C# Projects\SimpleMathGame\SimpleMathGame\obj\Debug\SimpleMathGame.pdb
+C:\Users\Anthony\Desktop\Programming\Visual Studio 2015\Projects\C# Projects\SimpleMathGame\SimpleMathGame\bin\Debug\SimpleMathGame.exe
+C:\Users\Anthony\Desktop\Programming\Visual Studio 2015\Projects\C# Projects\SimpleMathGame\SimpleMathGame\bin\Debug\SimpleMathGame.pdb
+C:\Users\Anthony\Desktop\Programming\Visual Studio 2015\Projects\C# Projects\SimpleMathGame\SimpleMathGame\obj\Debug\SimpleMathGame.csprojResolveAssemblyReference.cache
