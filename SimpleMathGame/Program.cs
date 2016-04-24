@@ -272,9 +272,6 @@ namespace SimpleMathGame
             Console.WriteLine();
             Console.Write("Press ENTER to exit the application.");
             Console.ReadLine();
-
-
-
-        }
-    }
-}
+        }// end Main
+    }// end Class
+}// end Namespace
